@@ -1,2 +1,2 @@
 # LocationNow
-React Application using JS, Hooks and Firebase to data persistence 
+React Application using React, JS, Hooks, GoogleAPI, and LocalStorage to data persistence 
